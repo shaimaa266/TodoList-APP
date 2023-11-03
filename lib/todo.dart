@@ -1,5 +1,3 @@
-
-
 import 'todo_provider.dart';
 
 class Todo {
